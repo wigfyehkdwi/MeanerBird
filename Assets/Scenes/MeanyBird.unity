@@ -426,14 +426,18 @@ PrefabInstance:
     - target: {fileID: 5669031246448248020, guid: 1fbc2b56f4b4cad41b29960ac8b40776, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 5826806107332298677, guid: 1fbc2b56f4b4cad41b29960ac8b40776, type: 3}
     - target: {fileID: 5669031246448248020, guid: 1fbc2b56f4b4cad41b29960ac8b40776, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5669031246448248020, guid: 1fbc2b56f4b4cad41b29960ac8b40776, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: 
+      value: RestartGame
+      objectReference: {fileID: 0}
+    - target: {fileID: 5669031246448248020, guid: 1fbc2b56f4b4cad41b29960ac8b40776, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Restart, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 5669031248249767488, guid: 1fbc2b56f4b4cad41b29960ac8b40776, type: 3}
       propertyPath: m_Pivot.x
