@@ -878,7 +878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spikes: {fileID: 8324910318186821867, guid: 784b6a570eadceb4493690aaffdd29fa, type: 3}
-  height: 0.7
+  height: 1.2
 --- !u!4 &2058482746
 Transform:
   m_ObjectHideFlags: 0
